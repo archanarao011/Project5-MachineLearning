@@ -21,10 +21,13 @@ This project aims to find the best algorithm/model to efficiently predict satisf
 
 ## Content
 The dataset for analysis is extracted from Kaggle and is based on survey data taken from around 130K passengers in an U.S airline.
+
 The train and test files were available separately but I have concatenated them and split it later in my analysis.
+
 Data is available here : https://drive.google.com/drive/folders/1d_hOJd6K_XukZp9uxMqKPOh2SD_IBouB
 
-What does your repository look like? Explain your folder and file structure.
+## What does your repository look like? Explain your folder and file structure.
+
 The repository contains a source code and a README file with a brief description about the project.
 
 ## Links
