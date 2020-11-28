@@ -23,6 +23,6 @@ The repository contains a source code and a README file with a brief description
 ## Links
 .
 [Repository]https://github.com/archanarao011/Project5-MachineLearning 
-[Slides]  https://drive.google.com/drive/folders/1jqIX3UJRn5TuyghcDT0EmgyoHhF9KZ5R
+[Slides]https://drive.google.com/drive/folders/1jqIX3UJRn5TuyghcDT0EmgyoHhF9KZ5R
 
 
