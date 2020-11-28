@@ -26,8 +26,6 @@ The train and test files were available separately but I have concatenated them 
 
 Data is available here : https://drive.google.com/drive/folders/1d_hOJd6K_XukZp9uxMqKPOh2SD_IBouB
 
-## What does your repository look like? Explain your folder and file structure.
-
 The repository contains a source code and a README file with a brief description about the project.
 
 ## Links
