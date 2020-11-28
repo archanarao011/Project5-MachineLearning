@@ -1,35 +1,28 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project - Machine Learning –Airlines Passengers Satisfaction: 
+# Project - Machine Learning â€“Airlines Passengers Satisfaction: 
 Classical Predictive Analysis
 
 Archana Rao
 
-*DAPT Amsterdam | Ironhack | 28-11-2020
-
-## Content
-- [Project Description] (#project-description)
-- 
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+DAPT Amsterdam | Ironhack | 28-11-2020
 
 ## Project Description
-This project aims to find the best algorithm to efficiently predict satisfaction of U.S based airline passengers using a survey data.
+This project aims to find the best algorithm/model to efficiently predict satisfaction of U.S based airline passengers using a survey data.
 
 ## Workflow
 1.Came up with a few research questions in mind.
-2.Collected Datasets, cleaned up, analysed, and explored the data.
-3.
+2.Collected Datasets, cleaning up and preprocessing done.
+3.Explored data to understand the trends and patterns in data .
+4. Trained the prediction model using different algorithms to come up with the best fit.
 
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
 
 What does your repository look like? Explain your folder and file structure.
+The repository contains a source code and a README file with a brief description about the project.
 
 ## Links
 .
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository]https://github.com/archanarao011/Project5-MachineLearning 
+[Slides]  https://drive.google.com/drive/folders/1jqIX3UJRn5TuyghcDT0EmgyoHhF9KZ5R
+
 
