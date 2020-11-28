@@ -12,8 +12,11 @@ This project aims to find the best algorithm/model to efficiently predict satisf
 
 ## Workflow
 1.Came up with a few research questions in mind.
+
 2.Collected Datasets, cleaning up and preprocessing done.
+
 3.Explored data to understand the trends and patterns in data .
+
 4. Trained the prediction model using different algorithms to come up with the best fit.
 
 ## Content
