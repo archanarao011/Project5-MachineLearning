@@ -15,9 +15,9 @@ This project aims to find the best algorithm/model to efficiently predict satisf
 
 2.Collected Datasets, cleaning up and preprocessing done.
 
-3.Explored data to understand the trends and patterns in data .
+3.Explored data to understand the trends and patterns in data.
 
-4. Trained the prediction model using different algorithms to come up with the best fit.
+4.Trained the prediction model using different algorithms to come up with the best fit.
 
 ## Content
 The dataset for analysis is extracted from Kaggle and is based on survey data taken from around 130K passengers in an U.S airline.
