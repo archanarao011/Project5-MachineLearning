@@ -16,6 +16,10 @@ This project aims to find the best algorithm/model to efficiently predict satisf
 3.Explored data to understand the trends and patterns in data .
 4. Trained the prediction model using different algorithms to come up with the best fit.
 
+## Content
+The dataset for analysis is extracted from Kaggle and is based on survey data taken from around 130K passengers in an U.S airline.
+The train and test files were available separately but I have concatenated them and split it later in my analysis.
+
 
 What does your repository look like? Explain your folder and file structure.
 The repository contains a source code and a README file with a brief description about the project.
